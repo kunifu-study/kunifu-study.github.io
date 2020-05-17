@@ -3,13 +3,13 @@
 大学・大学院で情報工学を学び，NLPを専門にしています！
 今後は大学で学んだNLPの知識を用いたシステムの設計を行っていきたいです
 学生時代はバンド活動をしていました！
-
-![ライブ映像](IMG_1082.TRIM.MOV)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kmv3UPQddrM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Profile
 - kunifu
 - 岡山
 - NLP,ML,DL,数理最適化,Web開発,システム運用,監視
+![プロフィール画像](IMG_1080.JPG)
 
 # Skills
 
