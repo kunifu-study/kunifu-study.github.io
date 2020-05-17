@@ -12,6 +12,7 @@
 - NLP,ML,DL,数理最適化,Web開発,システム運用,監視
 
 ![プロフィール画像](IMG_1080.JPG)
+<img src="IMG_1080.JPG" width=48>
 
 # Skills
 
