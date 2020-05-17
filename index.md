@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# 自己紹介
 
-You can use the [editor on GitHub](https://github.com/kunifu-study/kunifu-study.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+大学・大学院で情報工学を学び，NLPを専門にしています！
+今後は大学で学んだNLPの知識を用いたシステムの設計を行っていきたいです
+学生時代はバンド活動をしていました！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 基本情報
+- くにふ
+- 岡山
+- [twitter](https://twitter.com/orehdare)
 
-### Markdown
+## 開発言語
+- Python3.x (経験年数: 2年)
+- HTML (経験年数: 1年)
+- CSS (経験年数: 1年)
+- JavaScript (経験年数: 1年)
+- SQL (経験年数: 1年)
+- C (経験年数: 3年)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kunifu-study/kunifu-study.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 興味のある領域
+- NLP
+- ML・DL
+- 数理最適化
+- Web開発
+- システム運用・監視
