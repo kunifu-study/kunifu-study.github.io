@@ -7,7 +7,7 @@
 ## Profile
 - くにふ
 - 岡山
-- NLP,ML,DL,数理最適化,Web開発,システム運用・監視
+- NLP,ML,DL,数理最適化,Web開発,システム運用,監視
 
 # Skills
 
