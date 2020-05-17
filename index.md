@@ -59,6 +59,8 @@
 - 2019年 ソニー　インターン
 
 
-|<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/orehdare?ref_src=twsrc%5Etfw">Tweets by orehdare</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|<iframe src="https://www.openprocessing.org/sketch/898160/embed/" width="400" height="300"></iframe>|
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/orehdare?ref_src=twsrc%5Etfw">Tweets by orehdare</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe src="https://www.openprocessing.org/sketch/898160/embed/" width="400" height="300"></iframe>
 
 
